@@ -2,6 +2,9 @@
 
 # 🧠 Dopamine Focus App
 
+<img width="272" height="203" alt="image" src="https://github.com/user-attachments/assets/d028fe09-220c-4535-bf29-7716e7df0094" /><img width="272" height="203" alt="image" src="https://github.com/user-attachments/assets/5b0bdd28-1da9-4c5f-9746-e6671bb73796" />
+
+
 Um gerenciador de tarefas desktop gamificado, projetado especificamente para cérebros com TDAH.
 
 <p align="center">
@@ -75,6 +78,7 @@ Você precisará do Node.js instalado.
 Clone o repositório
 
 git clone [(https://github.com/InRenck/DopamineFocus-App.git)]([https://github.com/InRenck/DopamineFocus-App.git)
+
 cd dopamine-focus-app
 
 Instale as dependências
