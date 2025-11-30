@@ -74,7 +74,7 @@ Você precisará do Node.js instalado.
 
 Clone o repositório
 
-git clone [https://github.com/SEU_USUARIO/dopamine-focus-app.git](https://github.com/SEU_USUARIO/dopamine-focus-app.git)
+git clone [(https://github.com/InRenck/DopamineFocus-App.git)]([https://github.com/InRenck/DopamineFocus-App.git)
 cd dopamine-focus-app
 
 Instale as dependências
