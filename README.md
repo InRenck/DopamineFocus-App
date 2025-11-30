@@ -1,6 +1,6 @@
 <div align="center">
 
-🧠 Dopamine Focus App
+# 🧠 Dopamine Focus App
 
 Um gerenciador de tarefas desktop gamificado, projetado especificamente para cérebros com TDAH.
 
@@ -12,55 +12,53 @@ Um gerenciador de tarefas desktop gamificado, projetado especificamente para cé
 </p>
 </div>
 
-🤯 O Problema
+## 🤯 O Problema
 
 Para pessoas neurodivergentes (especialmente TDAH), listas de tarefas comuns podem ser opressoras. A "paralisia executiva" muitas vezes nos impede de começar, e a falta de recompensas imediatas torna difícil manter o foco. Além disso, usar o navegador para gerenciar tarefas é um convite para distrações (olá, abas do YouTube!).
 
-🚀 A Solução
+## 🚀 A Solução
 
 O Dopamine Focus é um aplicativo Desktop (Windows) que isola o ambiente de trabalho. Ele aplica conceitos de Gamificação e Redução de Atrito para enganar o cérebro a produzir dopamina antes e depois da tarefa.
 
 "Não é sobre organização, é sobre motivação química."
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 Feature
-
 Descrição
-
 Tática TDAH
 
-🎁 Loot Box System
+## 🎁 Loot Box System
 
 Escolha entre recompensa fixa ou "Sorteio" ao final das tarefas.
 
 A incerteza da recompensa gera picos maiores de dopamina (Gamificação).
 
-🚨 Panic Button (SOS)
+## 🚨 Panic Button (SOS)
 
 Um botão para quando você trava. Oferece opções rápidas: Dividir tarefa, Pular ou "Só 5 min".
 
 Combate a paralisia executiva reduzindo a barreira de entrada.
 
-🕶️ Focus Mode
+## 🕶️ Focus Mode
 
 A lista some. Você vê apenas UMA tarefa gigante e o timer.
 
 Reduz a ansiedade visual e o excesso de estímulos.
 
-⏱️ Timer Flexível
+## ⏱️ Timer Flexível
 
 Defina o tempo específico para cada missão.
 
 Ajuda a combater a "cegueira temporal".
 
-🖥️ App Desktop
+## 🖥️ App Desktop
 
 Roda fora do navegador, sem barras de endereços ou abas.
 
 Elimina as distrações digitais externas.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Electron: Para transformar o código web em aplicativo nativo Windows.
 
@@ -70,7 +68,7 @@ Tailwind CSS: Para estilização rápida e responsiva (via CDN).
 
 Lucide React: (Ou Emojis nativos) para ícones visuais.
 
-💻 Como Rodar o Projeto
+## 💻 Como Rodar o Projeto
 
 Você precisará do Node.js instalado.
 
@@ -92,9 +90,9 @@ Para criar o arquivo que roda no Windows sem precisar de código:
 
 npm run build
 
-# (Certifique-se de ter configurado o script de build no package.json com electron-packager)
+(Certifique-se de ter configurado o script de build no package.json com electron-packager)
 
-🤝 Contribuição
+### 🤝 Contribuição
 
 Ideias são bem-vindas! Se você tem TDAH e sentiu falta de algo, abra uma Issue ou mande um Pull Request.
 
