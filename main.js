@@ -1,11 +1,12 @@
-const { app, BrowserWindow } = require('electron')
+const { app, BrowserWindow } = require('electron');
+
 
 function createWindow () {
   const win = new BrowserWindow({
     width: 900,
     height: 700,
-    autoHideMenuBar: true, // Esconde o menu feio lá de cima
-    backgroundColor: '#0f172a', // Fundo escuro
+    autoHideMenuBar: true, 
+    backgroundColor: '#0f172a', 
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false
