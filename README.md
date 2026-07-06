@@ -51,7 +51,15 @@ O **Dopamine Focus** é um aplicativo Desktop que isola o ambiente de trabalho. 
 
 ### 💻 Como Rodar o Projeto
 
-Você precisará do [Node.js](https://nodejs.org/) instalado.
+📋 Pré-requisitos
+
+Antes de começar, certifique-se de atender aos seguintes requisitos:
+* **[Node.js](https://nodejs.org/pt-br/)** (v18 ou superior)
+
+Para verificar a sua versão atual, rode o seguinte comando no terminal:
+```bash
+node -v
+```
 
 1.  **Clone o repositório**
 
@@ -116,8 +124,15 @@ For neurodivergent people (especially with ADHD), standard to-do lists can be ov
 
 ### 💻 How to Run
 
-You will need [Node.js](https://nodejs.org/) installed.
+📋 Prerequisites
 
+Before starting, ensure you have met the following requirements:
+* **[Node.js](https://nodejs.org/en/)** (v18 or higher)
+
+To check your current version, run the following command in your terminal:
+```bash
+node -v
+```
 1.  **Clone the repository**
 
     ```bash
@@ -147,7 +162,13 @@ You will need [Node.js](https://nodejs.org/) installed.
     ```
 
 ---
+## 📄 Licença
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+---
 <div align="center">
   Made with 💜 and Hyperfocus by <a href="https://github.com/InRenck">InRenck</a>.
 </div>
